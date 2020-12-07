@@ -52,8 +52,9 @@ code{
         width: 100%;
         background-color:red;
         height: 300px;
-        position: static;
+        position: fixed;
         margin-top: -20px;
+        top:0;
 
 
     } 
